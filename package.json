@@ -1,0 +1,26 @@
+{
+  "name": "career-navigator",
+  "version": "1.0.0",
+  "description": "This project is an intelligent, AI-driven platform designed to support underserved students in transforming their aspirations into real, achievable career outcomes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananyasr19/career-navigator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananyasr19/career-navigator/issues"
+  },
+  "homepage": "https://github.com/ananyasr19/career-navigator#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
